@@ -1,0 +1,3 @@
+Registro de ventas
+
+Desarrolla un programa para registrar las ventas diarias de un pequeño negocio. El programa debe permitir agregar ventas, calcular el total de ventas del día y guardar esta información en un archivo.
