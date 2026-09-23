@@ -62,5 +62,10 @@ while opcion > 0:
         print("Ingresar una opción válida\n")
         opcion = m.opcion_menu()
 
+<<<<<<< HEAD
     
  # Agrego comentario de prueba   
+=======
+# Más comentarios de prueba sin sentido
+    
+>>>>>>> chore/agrego-mas-comentarios
